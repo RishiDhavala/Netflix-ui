@@ -71,7 +71,7 @@ const Login = () => {
                 }
               />
 
-              <button onClick={handleLogin}>Login</button>
+              <button id="button" onClick={handleLogin}>Login</button>
             </div>
           </div>
         </div>
